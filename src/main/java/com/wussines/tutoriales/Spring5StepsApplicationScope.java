@@ -9,7 +9,7 @@ import org.springframework.context.ApplicationContext;
 
 import com.wussines.tutoriales.scope.PersonaDao;
 
-@SpringBootApplication
+
 public class Spring5StepsApplicationScope {
 	
 	private static Logger LOGGER = LoggerFactory.getLogger(Spring5StepsApplicationScope.class);
